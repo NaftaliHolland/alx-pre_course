@@ -1,1 +1,1 @@
-This is not empty
+Not empty
