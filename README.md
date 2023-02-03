@@ -1,1 +1,1 @@
-Theonly time I'm allowed to commit from gitHub
+The only time I'm allowed to commit from gitHub
